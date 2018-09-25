@@ -1,6 +1,6 @@
-//P1.c
-//vinicius de carvalho zanini
-//11811EBI013
+/*P1.c*/
+/*vinicius de carvalho zanini*/
+/*11811EBI013*/
 
 
 #include <stdio.h>
