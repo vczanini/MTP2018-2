@@ -75,7 +75,7 @@ int main()
 	if(pri==2)
 	{
 		printf ("Digite o numero em binario ");
-		scanf ("%s", pri);
+		scanf ("%i", pri);
 		printf ("O valor em hexadecimal eh %x", bid(n));
 	}
 	if(pri==3)
