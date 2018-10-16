@@ -1,4 +1,4 @@
-/*P3.C */
+/*P3.c */
 /* Vinicius de Carvalho Zanini */
 /* 11811EBI013 */
 
