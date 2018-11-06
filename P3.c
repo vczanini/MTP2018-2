@@ -3,6 +3,7 @@
 /* 11811EBI013 */
 
 #include <stdio.h>
+#include <stdlib.h>
 int main()
 {
 	char numeroini[276], numerofi[276];
