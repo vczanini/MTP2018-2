@@ -21,7 +21,7 @@ int main ()
 	scanf("%d", &a);
 	printf("digite o valor n:");
 	scanf("%d", &b);
-    printf(": \nm = %d, n = %d: %d", a, b, New_Function(a,b));
+        printf(": \nm = %d, n = %d: %d", a, b, New_Function(a,b));
 	return 0;
 }
 
