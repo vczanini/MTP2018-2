@@ -59,7 +59,8 @@ void deb (int n)
 }
 int main()
 {
-	int pri,on;
+	int* pri;
+	int on;
 	char n[256];
 	printf ("escolha o numero: \n1: Binario > decimal \n2: Binario > hexadecimal \
 	\n3: Hexadecimal > decimal \n4: Hexadecimal > binario \n5: Decimal > binario \
